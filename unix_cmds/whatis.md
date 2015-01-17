@@ -4,7 +4,7 @@ whatis is almost identical to apropos or the use of man -k, but it requires a co
 **whatis (cmd_name)** gives you a nice one-line summary:
 ``` sh
 $ whatis cat
-cat (1)     - concatenate files and print on the standard output
+cat (1)             - concatenate files and print on the standard output
 
 $ whatis ps
 ps (1)               - report a snapshot of the current processes.
@@ -12,6 +12,6 @@ ps (1)               - report a snapshot of the current processes.
 $ whatis find
 find (1)             - search for files in a directory hierarchy
 
-whatis grep
+$ whatis grep
 grep (1)             - print lines matching a pattern
 ```
