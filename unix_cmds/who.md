@@ -1,5 +1,5 @@
 #####  Who's On?
-he who command lists the users logged on to the system now. Here's an example of the output on my system:
+The who command lists the users logged on to the system now. Here's an example of the output on my system:
 ``` sh
 $ who
 mani     :0           2015-01-13 20:00 (:0)
