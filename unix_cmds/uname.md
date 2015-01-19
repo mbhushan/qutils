@@ -1,0 +1,9 @@
+##### How Unix Systems Remember Their Names
+
+``` sh
+$ uname -a
+Linux mani-Inspiron-3521 3.13.0-24-generic #46-Ubuntu SMP Thu Apr 10 19:11:08 UTC 2014 x86_64 x86_64 x86_64 GNU/Linux
+
+$ uname -n
+mani-Inspiron-3521
+```
